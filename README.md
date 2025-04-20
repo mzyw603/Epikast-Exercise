@@ -47,4 +47,4 @@ Last thing in the assignment is to add the SSH key to a file in the the repo. If
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
-to print the key in the cmd. If you saved it somewhere else change the filepath accordingly.
+to print the key in the cmd. We pasted ours in bin/public.key. If you saved it somewhere else change the filepath accordingly.
