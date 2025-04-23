@@ -2,7 +2,7 @@
 IT Administrator assignment for Epikast
 
 ## Description
-For this assignment we will host a website using a serverlsess service called [pico.sh](https://pico.sh/)
+We will host a website using a serverlsess service called [pico.sh](https://pico.sh/)
 
 ## Getting started
 ### Prerequisites
