@@ -45,7 +45,7 @@ rsync -rv ~/epikast/public/ pgs.sh:/sites
 With that all the HTML files in the provided directory are uploaded.
 
 ### Find the SSH public key
-Last thing is to add the SSH key to a file in the the repo. If you saved the key in the default location use
+Last thing is to add the public SSH key to a file in the the repo. If you saved the key in the default location use
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
