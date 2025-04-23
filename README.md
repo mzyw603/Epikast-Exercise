@@ -8,7 +8,7 @@ For this assignment we will host a website using a serverlsess service called [p
 ### Prerequisites
 * Linux or MacOS
 
-Windows can be used as well but in that case we suggest running a Linux distro (ex. [Ubuntu](https://ubuntu.com/download)) on a Virtual Machine (ex. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)).
+Windows can be used as well but, in that case we suggest running a Linux distro (ex. [Ubuntu](https://ubuntu.com/download)) on a Virtual Machine (ex. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)).
 
 ### Generate a SSH key
 Pico.sh is a platform based entirely on SSH. To be able to use it we need a SSH key that uses ED25519. To generate a key:
@@ -50,3 +50,10 @@ Last thing is to add the SSH key to a file in the the repo. If you saved the key
 cat ~/.ssh/id_ed25519.pub
 ```
 to print the key in the terminal. We pasted ours in additional/public_key.txt. If you saved the key initially somewhere else change the file path accordingly.
+
+## Additional Content
+Links to the pages that were created
+* [Exercise in Simplicity](https://matzyw-sites.pgs.sh/Exercise%20in%20Simplicity.html)
+* [Exercise in Simplicity v2](https://matzyw-sites.pgs.sh/Exercise%20in%20Simplicity%20v2.html)
+
+Documentation can be found [here](https://drive.google.com/file/d/1tJ8olRhbAh7JfSpC1C7VBGrtVNleP-zX/view?usp=sharing).
